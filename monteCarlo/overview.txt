@@ -1,3 +1,6 @@
 I saw a video here: https://www.youtube.com/watch?v=pvimAM_SLic , which described an interview question that seems impossible until closer inspection - "You are given a random number generator which gives you a result between 0 and 1, find an estimate for pi". This question intrigued me and I had a go at trying this myself. It works off of a large sample of random samples to find a result - Monte Carlo methods.
 
 After creating a basic python script which solves the question, I became interested in how the estimate would evolve as the sample became larger. There were issues - for one my computer CPU was too slow to generate a high number samples in reasonable time, so I switched to C++ in order to use CUDA for parallelisation using my GPU.
+
+The purpose of this project became to do two things: firstly, to investigate and visualise the relationship between the number of samples and how good an estimate is for i) this case and ii) for other Monte Carlo simulations and 
+secondly so that I could learn good practice for parallel processing with CUDA.

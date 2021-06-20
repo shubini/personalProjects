@@ -8,5 +8,7 @@ I’m currently studying Mathematics with Mathematical Computation at Imperial, 
 
 
 How to reach me: 
+
 	Email: shuaib2001.sa@gmail.com
 	LinkedIn: https://www.linkedin.com/in/shuaib-ahmed-067537188/
+
