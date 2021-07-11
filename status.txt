@@ -1,0 +1,6 @@
+For any changes, mark the git commit with a status depending on what kind of change is being made:
+STATUS=0: Starting new project
+STATUS=1: Adding new features
+STATUS=2: Adding documentation as text documents
+STATUS=3: Refactoring existing features/bug fixing
+STATUS=4: Commenting onto code
